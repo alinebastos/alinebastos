@@ -18,8 +18,11 @@ More about me:
 ### Follow me
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeFrontcomAline)](https://www.youtube.com/c/DeFrontcomAline)
+
 [![Twitter: AlineBastos](https://img.shields.io/twitter/follow/AlineBastos?style=social)](https://twitter.com/Alinebastos)
+
 [![Linkedin: AlineBastos](https://img.shields.io/badge/-AlineBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlineBastos/)](https://www.linkedin.com/in/AlineBastos/)
+
 [![GitHub AlineBastos](https://img.shields.io/github/followers/AlineBastos?label=follow&style=social)](https://github.com/AlineBastos)
 
 ### GitHub Stats and languages
