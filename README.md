@@ -27,5 +27,5 @@ More about me:
 
 ### GitHub Stats and languages
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&show_icons=true&icon_color=cacaca&title_color=e2563e&text_color=33333B&hide_border=true&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&hide=jupyter%20notebook,css,html&layout=compact&hide_border=true&title_color=e2563e)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&show_icons=true&icon_color=333333&title_color=66C04E&text_color=333333&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&css,html&layout=compact&hide_border=false&title_color=66C04E)
