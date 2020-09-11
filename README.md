@@ -14,9 +14,15 @@ More about me:
 - 🌱 I’m currently learning React, React Native, Node, MongoDB, Software Architecture, Agile Methodologies, and E2E/Unit tests, besides my beloved JavaScript and CSS, that I will always be learning 💚
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I almost ended up working as a flight attendant in 2001, before getting to know the web development world.
-- 📫 Follow me: 
+
+### Follow me
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeFrontcomAline)](https://www.youtube.com/c/DeFrontcomAline)
 [![Twitter: AlineBastos](https://img.shields.io/twitter/follow/AlineBastos?style=social)](https://twitter.com/Alinebastos)
 [![Linkedin: AlineBastos](https://img.shields.io/badge/-AlineBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlineBastos/)](https://www.linkedin.com/in/AlineBastos/)
 [![GitHub AlineBastos](https://img.shields.io/github/followers/AlineBastos?label=follow&style=social)](https://github.com/AlineBastos)
+
+### GitHub Stats and languages
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&show_icons=true&icon_color=cacaca&title_color=e2563e&text_color=33333B&hide_border=true&hide=prs,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&hide=jupyter%20notebook,css,html&layout=compact&hide_border=true&title_color=e2563e)
