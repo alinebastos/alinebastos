@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)
+
 My name is Aline Bastos, and I am from Brazil 🇧🇷. 
 
 I've been working as Front-End Developer since 2001 unofficially, and since 2010 officially. 
@@ -25,10 +27,10 @@ More about me:
 
 [![GitHub AlineBastos](https://img.shields.io/github/followers/AlineBastos?label=follow&style=social)](https://github.com/AlineBastos)
 
-### GitHub Stats and languages
+### GitHub Stats and Languages
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&theme=onedark&show_icons=true&hide_border=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&theme=onedark&langs_count=3)](https://github.com/AlineBastos/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&theme=onedark&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
 
 ### Languages, Frameworks, Libraries and Tools
 
@@ -43,7 +45,3 @@ More about me:
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)
