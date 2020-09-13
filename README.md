@@ -28,7 +28,7 @@ More about me:
 ### GitHub Stats and languages
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&theme=onedark&show_icons=true&hide_border=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&theme=onedark&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&theme=onedark&langs_count=3)](https://github.com/AlineBastos/github-readme-stats)
 
 ### Languages, Frameworks, Libraries and Tools
 
