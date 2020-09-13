@@ -1,4 +1,6 @@
-### Hello World 👋
+# Hello World 👋
+
+![](https://github.com/alinebastos/images/blob/master/pinguim.gif)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)
 
@@ -8,7 +10,7 @@ I've been working as Front-End Developer since 2001 unofficially, and since 2010
 
 I have worked with a lot of different projects and companies, and I love to contribute to the community and mentoring people.
 
-Now I have a [Youtube channel](https://www.youtube.com/c/DeFrontcomAline) to show how to initiate in the Front-End development world, how to contribute with open source and communities, and I am starting there a Front-End course focused on Accessibility, Usability, Performance, Best Practices, and SEO.
+Now I have a [Youtube channel](https://www.youtube.com/c/DeFrontcomAline) to show how to initiate in the Front-End development world, how to contribute with open source and communities, and how to be prepared to the IT world focused on Accessibility, Usability, Performance, Best Practices, SEO and another very interesting things.
 
 More about me:
 
@@ -30,7 +32,7 @@ More about me:
 ### GitHub Stats and Languages
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&theme=onedark&show_icons=true&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&theme=onedark&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&theme=onedark&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
 
 ### Languages, Frameworks, Libraries and Tools
 
