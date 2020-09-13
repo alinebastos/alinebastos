@@ -19,7 +19,7 @@ More about me:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I almost ended up working as a flight attendant in 2001, before getting to know the web development world.
 
-### Follow me
+## Follow me
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeFrontcomAline)](https://www.youtube.com/c/DeFrontcomAline)
 
@@ -29,12 +29,12 @@ More about me:
 
 [![GitHub AlineBastos](https://img.shields.io/github/followers/AlineBastos?label=follow&style=social)](https://github.com/AlineBastos)
 
-### GitHub Stats and Languages
+## Most Used Languages and GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&theme=onedark&show_icons=true&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&theme=onedark&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&theme=onedark&show_icons=true&hide_border=false)
 
-### Languages, Frameworks, Libraries and Tools
+## Languages, Frameworks, Libraries and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
