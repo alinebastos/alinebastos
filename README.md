@@ -34,7 +34,7 @@ More about me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&theme=onedark&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&theme=onedark&show_icons=true&hide_border=false)
 
-## Languages, Frameworks, Libraries and Tools
+## Tech Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
