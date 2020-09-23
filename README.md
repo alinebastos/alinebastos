@@ -29,7 +29,7 @@ More about me:
 
 [![GitHub AlineBastos](https://img.shields.io/github/followers/AlineBastos?label=follow&style=social)](https://github.com/AlineBastos)
 
-## Most Used Languages and GitHub Stats
+## GitHub Stats and Most Used Languages
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&theme=gruvbox&show_icons=true&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
