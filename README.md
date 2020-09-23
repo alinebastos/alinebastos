@@ -31,7 +31,7 @@ More about me:
 
 ## GitHub Stats and Most Used Languages
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&theme=gruvbox&show_icons=true&hide_border=false)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&hide=issues&theme=gruvbox&show_icons=true&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
 
 ## Tech Skills
