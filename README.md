@@ -14,7 +14,7 @@ Now I have a [Youtube channel](https://www.youtube.com/c/DeFrontcomAline) to sho
 
 More about me:
 
-- 🔭 I’m currently looking for work as Front-End Software Developer | React | Node | Team Lead
+- 🔭 I’m currently working as Sênior Front-End Software Developer | React | Node
 - 🌱 I’m currently learning React, React Native, Node, MongoDB, Software Architecture, Agile Methodologies, and E2E/Unit tests, besides my beloved JavaScript and CSS, that I will always be learning 💚
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I almost ended up working as a flight attendant in 2001, before getting to know the web development world.
