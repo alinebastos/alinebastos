@@ -14,7 +14,7 @@ Now I have a [Youtube channel](https://www.youtube.com/c/DeFrontcomAline) to sho
 
 More about me:
 
-- 🔭 I’m currently working as an Alternative Therapist. But I am also combining my IT skills with my Therapist skills. Also, I am open to front-end freelancer jobs.
+- 🔭 I’m currently working as an Alternative Therapist. But I am also combining my IT skills with my Therapist skills. Also, I am open to front-end React jobs.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I almost ended up working as a flight attendant in 2001, before getting to know the web development world.
 
