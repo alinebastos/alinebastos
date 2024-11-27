@@ -8,15 +8,15 @@ My name is Aline Bastos, and I am from Brazil 🇧🇷.
 
 I have been working unofficially as a Front-End Developer since 2001 and officially since 2010. 
 
-I have worked with a lot of different projects, clients, and companies, and I love to contribute to the community and mentor people.
+I have worked with different projects, clients, and companies, and I love contributing to the community and mentoring people.
 
-Now I have a [Youtube channel](https://www.youtube.com/c/DeFrontcomAline) to show how to initiate in the Front-End development world, how to contribute to open source and communities, and how to be prepared for the IT world focused on Accessibility, Usability, Performance, Best Practices, SEO, and other very interesting things.
+I have a [Youtube channel](https://www.youtube.com/c/DeFrontcomAline) to show how to initiate in the Front-End development world, including podcasts with professionals from different IT areas.
 
 More about me:
 
 - ✨ I also work as an Alternative Therapist.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I almost ended up working as a flight attendant in 2001, before getting to know the web development world.
+- ⚡ Fun fact: I almost became a flight attendant in 2001, before getting to know the web development world.
 
 ## Follow me
 
